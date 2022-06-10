@@ -1,0 +1,108 @@
+
+.container{
+    width: 1200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cont{
+    margin-right: 30px;
+}
+.main{
+    display: inline-block;
+}
+.main__bgc{
+    background-image: url("../../../img/Oval.png");
+    background-repeat: no-repeat;
+    display: block;
+    color: #fff;
+    padding: 62px 40px 24px 24px;
+}
+.main__item{
+    margin: 0px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+}
+.main__text{
+    font-weight: 500;
+    margin: 0;
+    font-size: 15px;
+    line-height: 22px;
+    color: #fff;
+    opacity: 0.75;
+}
+.main__list{
+    list-style: none;
+    padding: 24px 0px 24px 24px;
+    color: #4661E6;
+    width: 235px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 24px;
+}
+.placement__box{
+    display: flex;
+    align-items: center;
+}
+.placement__tem{
+    margin-right: 30px;
+    color: #3A4374;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+}
+.placement{
+    margin-top: 24px;
+    padding: 19px 24px;
+    width: 207px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.placement__href{
+    margin-left: 70px;
+}
+.main__title{
+    display: inline-block;
+    border-radius: 10px;
+    margin-bottom: 14px;
+    padding: 5px 16px;
+    margin-right: 8px;
+    font-size: 13px;
+    line-height: 19px;
+    background-color: #F2F4FF;
+}
+.round-1{
+    z-index: -1;
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-left: -16px;
+    margin-top: 5px;
+    border: 1px solid #F49F85;
+    background-color: #F49F85;
+}
+.round-2{
+    z-index: -1;
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-left: -16px;
+    margin-top: 5px;
+    border: 1px solid #AD1FEA;
+    background-color: #AD1FEA;
+}
+.round-3{
+    z-index: -1;
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-left: -16px;
+    margin-top: 5px;
+    border: 1px solid #62BCFA;
+    background-color: #62BCFA;
+}
