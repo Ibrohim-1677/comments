@@ -14,6 +14,7 @@ function App() {
       <Route path="/" element ={<MainHeader />} />
       <Route path="/add" element={<Add />} />
       <Route path="/edit" element={<Edit />} />
+      
       <Route path="/feedback/:id" element={<Feedback />} />
     </Routes>
     
